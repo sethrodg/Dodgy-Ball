@@ -5,4 +5,5 @@ I built this game as my first ever full programming project, using an idea from 
 
 
 ![yearbook](https://user-images.githubusercontent.com/13446321/152845276-b46172fb-a601-40a7-b39e-35c473b0e1ef.JPG)
-![play](https://user-images.githubusercontent.com/13446321/152845282-8a8ae173-c3f1-4324-980e-ee1d789d9835.jpeg)
+
+![play](https://user-images.githubusercontent.com/13446321/152845423-6b4892a4-6529-4c4c-a840-8f5554bc033b.jpeg)
